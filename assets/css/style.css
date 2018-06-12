@@ -1097,8 +1097,10 @@ a.phone-a {
 	}
 
 	.section-top {
+		background: url('../img/main-scr.jpg') no-repeat center center; 
 		padding-top: 50px;
-		min-height: 100vh;
+		height: auto;
+		min-height: 100vh
 	}
 
 	.section-top h1 {
@@ -1176,12 +1178,12 @@ a.phone-a {
 	.section-errors {
 		/* padding-top: 100px;
 		height: 100vh;
-		background: url('../img/scr-errors.png') no-repeat center center fixed; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
 		color: white; */
+		background: url('../img/scr-errors.png') no-repeat center center; 
 		padding-top: 45px;
 		height: auto;
 	}
