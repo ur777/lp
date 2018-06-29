@@ -871,10 +871,10 @@ a.phone-a {
 	.map-frame {
 		display: block;
 		position: absolute;
-		top: 110px;
+		top: 80px;
 		right: 80px;
 		width: 250px;
-		height: 335px;
+		height: 395px;
 		padding: 15px;
 		background: #fff;
 		border: 3px #0381f0 solid;
